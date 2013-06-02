@@ -1,12 +1,11 @@
 package org.jnario.calc;
-
+	/**
+	 * Simple calculator example for the purposes of testing JNario
+	 */
 public class Calculator {
 
 	private StringBuilder display;
 
-	/**
-	 * Simple calculator example for the purposes of testing JNario
-	 */
 	public Calculator() {
 		display = new StringBuilder();
 	}
